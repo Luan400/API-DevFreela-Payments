@@ -1,0 +1,19 @@
+﻿# Arquivos e diretórios a serem ignorados pelo Git
+
+# Ignorar arquivos de compilação
+*.obj
+*.dll
+*.exe
+*.pdb
+
+# Ignorar diretórios gerados automaticamente
+bin/
+obj/
+
+# Ignorar arquivos de configuração locais
+*.suo
+*.user
+*.sln.docstates
+
+# Ignorar arquivos sensíveis contendo credenciais ou chaves
+appsettings.json
