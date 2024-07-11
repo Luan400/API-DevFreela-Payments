@@ -1,8 +1,8 @@
 <h1 align="center">DevFreela Payments</h1>
 <p  align='center'> 
  <a href= 'https://www.linkedin.com/in/luan-bortoleto-590490234/'>
- <img alt='Luan Bortoleto [Linkedin]' src='/iconlinke(1).jpg' width=20px></a>
-  <a href='https://www.instagram.com/luanbortoleto/'><img alt='Luan Bortoleto [Instagram]' src='/iconinsta(1).jpg' width=20px></a>
+ <img alt='Luan Bortoleto [Linkedin]' src='/iconlinke (1).jpg' width=20px></a>
+  <a href='https://www.instagram.com/luanbortoleto/'><img alt='Luan Bortoleto [Instagram]' src='/iconinsta (1).jpg' width=20px></a>
   </p>
   
   <p align="center"> Microsserviço de pagamento para o DevFreela 
