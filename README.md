@@ -20,8 +20,6 @@
  
 <p align='center'> <img src= '/DevFreela.API.Payments.gif'</p></p>
  
-### Tecnologias
-
 <h1>Tecnologias e práticas utilizadas</h1>
 
 <div>
